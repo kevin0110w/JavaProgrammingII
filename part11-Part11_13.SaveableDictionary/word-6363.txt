@@ -1,0 +1,4 @@
+computer:tietokone
+monkey:apina
+olut:beer
+
